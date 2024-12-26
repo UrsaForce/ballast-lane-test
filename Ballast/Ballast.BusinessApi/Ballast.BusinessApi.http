@@ -1,0 +1,6 @@
+@Ballast.BusinessApi_HostAddress = http://localhost:5223
+
+GET {{Ballast.BusinessApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

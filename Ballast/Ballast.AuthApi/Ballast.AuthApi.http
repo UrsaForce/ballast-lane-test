@@ -1,0 +1,6 @@
+@Ballast.AuthApi_HostAddress = http://localhost:5215
+
+GET {{Ballast.AuthApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
